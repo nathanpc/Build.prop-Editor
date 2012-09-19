@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">build.prop Editor</string>
+    <string name="add_prop">Add Property</string>
+    <string name="save">Save</string>
+    <string name="discart">Discard</string>
+    <string name="cancel">Cancel</string>
+    <string name="edit_key">Property Key</string>
+    <string name="edit_name">Property Name</string>
+    <string name="edit_prop_title">Edit/Add Property</string>
+    <string name="unsaved_changes_title">Unsaved Changes</string>
+    <string name="unsaved_changes_message">Would you like to set this property?</string>
+    <string name="add">Add</string>
+    <string name="about">About</string>
+    <string name="backup">Backup</string>
+    <string name="restore">Restore</string>
+</resources>
