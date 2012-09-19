@@ -14,9 +14,9 @@ This app is compatible with 2.2 or newer and of course needs root access to writ
 
 ## Changelog
 
-**v2.0:** Holo redesign
-**v1.0.1:** Minor fixes
-**v1.0:** First release
+ * **v2.0:** Holo redesign
+ * **v1.0.1:** Minor fixes
+ * **v1.0:** First release
 
 ## License
 
