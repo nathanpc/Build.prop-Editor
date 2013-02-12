@@ -23,7 +23,7 @@
         </activity>
         <activity android:name=".EditPropActivity"
                   android:label="@string/edit_prop_title"
-                  android:theme="@android:style/Theme.Holo.Light"
+                  android:theme="@android:style/Theme.DeviceDefault"
                   />
     </application>
 </manifest>
