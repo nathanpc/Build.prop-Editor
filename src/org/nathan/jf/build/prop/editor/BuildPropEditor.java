@@ -54,7 +54,7 @@ public class BuildPropEditor extends ListActivity {
     public void onResume() {
     	super.onResume();
     	
-    	// TODO: This isn't working...
+    	// TODO: This isn't working.
     	if (refreshList) {
     		// Something was added, better refresh
     		populateList();

@@ -1,1 +1,6 @@
 .DS_Store
+*.dex
+*.class
+*.ap_
+*.apk
+*.keystore
